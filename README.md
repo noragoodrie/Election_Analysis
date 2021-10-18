@@ -28,7 +28,6 @@ This week the software we used to run this challenge was Visual Studio Code as w
 	1. Jefferson: 10.5% totaling 38,855 votes
   2. Denver: 82.8% totaling 306,055 votes
   3. Arapahoe: 6.7% totaling 24,801
-  4. 
 
 - Denver had the largest turnout of votes at 306,055.
 
